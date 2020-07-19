@@ -9,7 +9,7 @@ Port: 19132
 ## Facts
 1. Owner / Developer of PocketPinas Server
    - Founded on May 14, 2017
-     - New Name was PocketJeepney
+     - Former Name was PocketJeepney
 2. Java is my first language that i learn
    - Second was PHP
      - Third was VB.NET
