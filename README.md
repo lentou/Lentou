@@ -7,6 +7,7 @@
 ---
 ## Working on:
 - PocketPinas - Philippines Hybrid Server
+- RexisOnline - Fantasy Nations Server
 - YouTube
 
 ---
@@ -16,5 +17,10 @@
 - Memo-random System (VB.NET)
 
 ---
+### Servers that i work
+- PocketJeepney (PocketPinas) - Dev
+- OdysseyBE - Dev/Contributor
+- GambitGames - Contributor
+- SakuraServer - Contributor
 
 <img align="left" alt="Lentou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lentou&show_icons=true&hide_border=false" />
