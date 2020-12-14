@@ -18,19 +18,17 @@
 
 ---
 ### Servers that i work
-[table]
-[tr]
-  [td]table cell 1[/td]
-  [td]table cell 2[/td]
-[/tr]
-[tr]
-  [td]table cell 3[/td]
-  [td]table cell 4[/td]
-[/tr]
-[/table]
-- PocketJeepney (PocketPinas) - Dev
-- OdysseyBE - Dev/Contributor
-- GambitGames - Contributor
-- SakuraServer - Contributor
+| Bedrock | Job |
+| ----------- | ----------- |
+| PocketJeepney (PocketPinas)  | Dev/Owner |
+| OdysseyBE | Dev/Contributor |
+| GambitGames | Builder/Contributor |
+| SakuraServer | Contributor |
+| ----------- | ----------- |
+| Java | Job |
+| MineShaftPH | Builder |
+| MineTrex | Mod/Builder |
+| AngelsCraft (SwordsPH) | Builder |
+| RazerSparkMC (SwordsPH) | Admin |
 
 <img align="left" alt="Lentou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lentou&show_icons=true&hide_border=false" />
