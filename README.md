@@ -24,8 +24,9 @@
 | OdysseyBE | Dev/Contributor |
 | GambitGames | Builder/Contributor |
 | SakuraServer | Contributor |
-| ----------- | ----------- |
+
 | Java | Job |
+| ----------- | ----------- |
 | MineShaftPH | Builder |
 | MineTrex | Mod/Builder |
 | AngelsCraft (SwordsPH) | Builder |
