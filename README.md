@@ -24,6 +24,8 @@
 | OdysseyBE | Dev/Contributor |
 | GambitGames | Builder/Contributor |
 | SakuraServer | Contributor |
+| ArcanaPE | Mod |
+| PHC | Volunteer Builder |
 
 | Java | Job |
 | ----------- | ----------- |
