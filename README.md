@@ -5,16 +5,37 @@
 - ⚡ Fun fact: Whenever I'm tired/bored I code plugins.
 
 ---
-## Working on:
-- PocketPinas - Philippines Hybrid Server
-- RexisOnline - Fantasy Nations Server
-- YouTube
+```php
+<?php
+declare(strict_types = 1);
 
----
-### Currently Thesis Project Works:
-- Solar Panel Size Calculator (Java)
-- Book Monitoring System (Java)
-- Memo-random System (VB.NET)
+namespace lentou;
+
+class profile {
+  
+  public languages = ["PHP", "Java", "Vb"];
+  public markups = ["HTML", "CSS"];
+  
+  public function biodata() : array {
+      return [
+        "Name"  =>  "Lentou";
+        "Age"  =>  "Unknown";
+        "Gender"  =>  "Male";
+        "Role"  =>  "Programmer";
+        "Course"  =>  "BSIT-NW";
+      ];
+  }
+  
+  public function projects() : array {
+      return [
+        "Solar Panel Size Calculator" =>  "Java";
+        "Book Monitoring System"  =>  "Java";
+        "Memo-random System"  => "Vb";
+      ];
+  }
+
+}
+```
 
 ---
 ### Servers that i work
