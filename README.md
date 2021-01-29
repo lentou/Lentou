@@ -13,8 +13,8 @@ namespace lentou;
 
 class profile {
   
-  public languages = ["PHP", "Java", "Vb"];
-  public markups = ["HTML", "CSS"];
+  public $languages = ["PHP", "Java", "Vb"];
+  public $markups = ["HTML", "CSS"];
   
   public function biodata() : array {
       return [
