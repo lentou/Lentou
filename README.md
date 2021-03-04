@@ -48,6 +48,7 @@ class profile {
 | SakuraServer | Contributor |
 | ArcanaPE | Mod |
 | PHC | Volunteer Builder |
+| FireflyPE | Plugin Dev |
 
 | Java | Job |
 | ----------- | ----------- |
