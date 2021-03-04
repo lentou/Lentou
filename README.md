@@ -15,13 +15,14 @@ Research Projects:
 
 Minecraft Servers:
   Bedrock:
-    PocketJeepney: Developer & Owner
+    PocketJeepney (PocketPinas): Developer & Owner
     OdysseyBE: Developer & Contributor
     GambitGames: Builder
     SakuraServer: Contributor
     ArcanaPE: Moderator
     PHC: Builder
     FireflyPE: Plugin Developer
+    PMnS: Contributor
   Java:
     MineShaftPH: Builder
     MineTrex: Moderator & Builder
