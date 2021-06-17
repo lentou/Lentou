@@ -12,6 +12,7 @@ Research Projects:
   "Solar Panel Size Calculator" =>  "Java"
   "Book Monitoring System"  =>  "Java"
   "Memo-random System"  => "Vb"
+  "Bliss Bank" => "Java"
 
 Minecraft Servers:
   Bedrock:
@@ -29,5 +30,3 @@ Minecraft Servers:
     AngelsCraft (SwordsPH): Builder
     RazerSparkMC (SwordsPH): Administrator
 ```
-
-<img align="left" alt="Lentou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lentou&show_icons=true&hide_border=false" />
