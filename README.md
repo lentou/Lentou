@@ -11,6 +11,7 @@ Markups = [HTML, CSS]
 Known UIs:
   - Java Swing
   - Java AWT
+  - Java Applet
   - VB.NET
 
 Research Projects:
