@@ -5,8 +5,13 @@
 ```fix
 I am Lentou from Philippines, I am BSIT-NW Student.
 
-languages = [PHP, Java, Vb]
-markups = [HTML, CSS]
+Languages = [PHP, Java, Vb]
+Markups = [HTML, CSS]
+
+Known UIs:
+  - Java Swing
+  - Java AWT
+  - VB.NET
 
 Research Projects:
   "Solar Panel Size Calculator" =>  "Java"
