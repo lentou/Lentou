@@ -21,10 +21,11 @@ Research Projects:
   "Book Monitoring System"  =>  "Java"
   "Memo-random System"  => "Vb"
   "Bliss Bank" => "Java"
+  "Drift Cavalry LLC" => "JS"
 
 Minecraft Servers:
   Bedrock:
-    PocketJeepney (PocketPinas): Developer & Owner
+    PocketPinas (PocketJeepney): Developer & Owner
     OdysseyBE: Developer & Contributor
     GambitGames: Builder
     SakuraServer: Contributor
@@ -32,6 +33,7 @@ Minecraft Servers:
     PHC: Builder
     FireflyPE: Plugin Developer
     PMnS: Contributor
+    Wargods Network: Contributor
   Java:
     MineShaftPH: Builder
     MineTrex: Moderator & Builder
