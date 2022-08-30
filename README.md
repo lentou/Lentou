@@ -5,9 +5,6 @@
 ```fix
 I am Lentou from Philippines, I am BSIT-NW Student.
 
-Languages = [PHP, Java, Vb, JS, Lua, C#]
-Markups = [HTML, CSS]
-
 Known UIs:
   - Java Swing
   - Java AWT
