@@ -19,6 +19,7 @@ Research Projects:
   "Memo-random System"  => "Vb"
   "Bliss Bank" => "Java"
   "Drift Cavalry LLC" => "JS"
+  "Region III Blood Bank: Reservation and Management System" => "JS"
 
 Minecraft Servers:
   Bedrock:
