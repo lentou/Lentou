@@ -23,6 +23,7 @@ Research Projects:
 
 Minecraft Servers:
   Bedrock:
+    Hyval: Developer
     PocketPinas (PocketJeepney): Developer & Owner
     OdysseyBE: Developer & Contributor
     GambitGames: Builder
