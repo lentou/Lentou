@@ -8,9 +8,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **pocketmine-mp plugin development**
+- ⭐ currently working on **pocketmine-mp plugin development** and **web development**
 - 💀 mostly working on **private repositories** and **stuffs**
-- 👾 a **student** working his way around things
+- 👾 certifications: <a href="https://www.credly.com/users/allen-baluyot">click here</a>
   
 <h2> / current skills / </h2>
   
