@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Lentou..&hearts;++;Self-taught+Programmer,;Information+Technology+Student,;FPS/RPG+Grinder,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Lentou..&hearts;++;Self-taught+Programmer,;Computer+Enthusiast,;FPS/RPG+Grinder,;Full-Time+or+Part-Time,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <div>
 
-<img align="right" width="400" alt="Beast" src="https://i.pinimg.com/564x/b6/a9/e1/b6a9e1a9ee113594c31c266dff9c788b.jpg"/>
+<img align="right" width="400" alt="Gojo" src="https://i.pinimg.com/736x/2d/e0/47/2de0477e64db88b97e81a927515e3f56.jpg"/>
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **pocketmine-mp plugin development** and **web development**
+- ⭐ currently working on **software** and **web development**
 - 💀 mostly working on **private repositories** and **stuffs**
 - 👾 certifications: <a href="https://www.credly.com/users/allen-baluyot">click here</a>
   
@@ -50,6 +50,6 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pinterest.ph/pin/318840848631950760/">Image by dim_bin</a>
+<a href="https://ph.pinterest.com/pin/761530618265526080/">Image by Al</a>
   </div>
 </div>
